@@ -1,0 +1,79 @@
+
+   [
+    {
+      "name": "ACF Fiorentina",
+      "code": "FIO"
+    },
+    {
+      "name": "Torino FC",
+      "code": "TOR"
+    },
+    {
+      "name": "Hellas Verona",
+      "code": "HEL"
+    },
+    {
+      "name": "AS Roma",
+      "code": "ROM"
+    },
+    {
+      "name": "SSC Napoli",
+      "code": "NAP"
+    },
+    {
+      "name": "US Sassuolo Calcio",
+      "code": "SAS"
+    },
+    {
+      "name": "Juventus",
+      "code": "JUV"
+    },
+    {
+      "name": "UC Sampdoria",
+      "code": "SAM"
+    },
+    {
+      "name": "AC Milan",
+      "code": "MIL"
+    },
+    {
+      "name": "Bologna FC",
+      "code": "BOL"
+    },
+    {
+      "name": "Atalanta",
+      "code": "ATA"
+    },
+    {
+      "name": "SS Lazio",
+      "code": "LAZ"
+    },
+    {
+      "name": "FC Internazionale Milano",
+      "code": "INT"
+    },
+    {
+      "name": "Spezia"
+    },
+    {
+      "name": "Udinese Calcio",
+      "code": "UDI"
+    },
+    {
+      "name": "Cremonese",
+      "code": "CRE"
+    },
+    {
+      "name": "Salernitana",
+      "city": "Salerno"
+    },
+    {
+      "name": "Lecce",
+      "city": "Lecce"
+    },
+    {
+      "name": "Monza",
+      "city": "Monza"
+    }
+  ]
+
